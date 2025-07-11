@@ -24,7 +24,7 @@ python manage.py migrate
 # Step 8: Create Admin User
 python manage.py createsuperuser
 Note : For skipping email just press Enter
-#Step 9: Run The Project
+# Step 9: Run The Project
 python manage.py runserver
 # ‼️To Close The Python Environment ‼️
 cd ..
