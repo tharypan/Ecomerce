@@ -1,7 +1,7 @@
 
 # To Start Using The Project
 # Step 1: Clone The Repositories
-git clone 
+git clone https://github.com/tharypan/Ecomerce.git
 # Step 2: Navigate To Computer-Selling
 cd Computer-Selling
 # Step 3: Create Python Environment
