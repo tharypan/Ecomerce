@@ -28,5 +28,4 @@ Note : For skipping email just press Enter
 python manage.py runserver
 # ‼️To Close The Python Environment ‼️
 cd ..
-activate
 
