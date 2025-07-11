@@ -1,7 +1,7 @@
 
 # To Start Using The Project
 # Step 1: Clone The Repositories
-git clone https://github.com/Project-BBU-G22/Computer-Selling.git
+git clone 
 # Step 2: Navigate To Computer-Selling
 cd Computer-Selling
 # Step 3: Create Python Environment
@@ -29,4 +29,4 @@ python manage.py runserver
 # ‼️To Close The Python Environment ‼️
 cd ..
 deactivate
-Enjoy
+
